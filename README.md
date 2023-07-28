@@ -2,7 +2,7 @@
 
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog :
-[Security and Identity](https://github.com/users/elbacilon/projects/5 "Security and Identity"), [ Observability ](https://github.com/users/elbacilon/projects/8 "Observability")
+[Security and Identity](https://github.com/orgs/ovh/projects/14/views/1 "Security and Identity"), [ Observability ](https://github.com/orgs/ovh/projects/13 "Observability")
 
 [Looking for our VMware, Nutanix or Anthos Hosted Private Cloud roadmap ?](https://github.com/ovh/hosted-private-cloud-roadmap "OVHcloud VMware, Nutanix and Anthos Hosted Private Cloud")
 
@@ -23,7 +23,7 @@
 ## Proposing a new feature
 - Consider only new features (aka functional enhancements, new localizations, UX improvments). Specific bug reports or support requests should be opened through  [the OVHcloud help center](https://help.ovhcloud.com/en-ie/ "the OVHcloud help center")
 - If you believe you've found a security issue in our service, please enter our [bug bounty programm ](https://yeswehack.com/programs/ovh#rules "bug bounty programm ")
-- Please consult [Existing issues](https://github.com/ovh/public-cloud-roadmap/issues "Existing issues") and [product documentation](https://docs.ovh.com/gb/en/ "product documentation") to avoid duplicates
+- Please consult [Existing issues](https://github.com/ovh/management-security-operations-roadmap/issues "Existing issues") and [product documentation](https://docs.ovh.com/gb/en/ "product documentation") to avoid duplicates
 - Please describe the feature in the shortest possible way, ideally as an agile user story
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible. 
 
