@@ -2,7 +2,7 @@
 
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog :
-[Security and Identity](https://github.com/orgs/ovh/projects/14/views/1 "Security and Identity"), [ Observability ](https://github.com/orgs/ovh/projects/13 "Observability")
+[Security, Identity and Operations management Roadmap](https://github.com/orgs/ovh/projects/13/views/1 "Security, Identity and Operations management Roadmap")
 
 [Looking for our VMware, Nutanix or Anthos Hosted Private Cloud roadmap ?](https://github.com/ovh/hosted-private-cloud-roadmap "OVHcloud VMware, Nutanix and Anthos Hosted Private Cloud")
 
