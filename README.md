@@ -18,7 +18,7 @@ This includes a detailed view for our Public Cloud IAAS, container and data serv
 
 [ 🆕 Propose a new feature request - aka issue for Public Cloud ](https://github.com/ovh/public-cloud-roadmap/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
 
-[ 🆕 Propose a new feature request - aka issue for Security, Ideentiry and Operations ](https://github.com/ovh/management-security-operations-roadmap/issues/new)
+[ 🆕 Propose a new feature request - aka issue for Security, Identity and Operations ](https://github.com/ovh/management-security-operations-roadmap/issues/new)
 
 ## Notes/Disclaimer
 - New issues will be considered typically within a week and may be marked as **Aknowledged** if they align with our product strategy.
